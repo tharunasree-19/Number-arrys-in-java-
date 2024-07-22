@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class github{
+    public static void main(String args[]){
+       int numbers[] = {10,20,30,40,50,60,70,80,90};
+       for (int i=0;i< numbers.length;i++){
+           System.out.println("The "+i +" element in arry is : "+numbers[i]);
+       }
+        
+    }
+}
